@@ -39,7 +39,7 @@ const HeroSection = () => {
           </Link>
           <Link
             href={
-              "https://www.youtube.com/watch?v=T8mYfvUPKtA&list=RDGMEM916WJxafRUGgOvd6dVJkeQ&start_radio=1&rv=eMA6GHTQ4WA"
+              "https://github.com/Blue-Onion/FinGenie"
             }
           >
             <Button className={"px-8"} variant={"outline"} size={"lg"}>
