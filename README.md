@@ -35,8 +35,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/finance-genie.git
-cd finance-genie
+git clone https://github.com/Blue-Onion/FinGenie
+cd FinGenie
 
 # 🔐 Clerk Auth
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
